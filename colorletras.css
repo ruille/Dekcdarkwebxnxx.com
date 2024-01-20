@@ -1,0 +1,128 @@
+*{padding: 100; margin: 110; box-sizing: border-box;}
+body{height: 100px;}
+header {
+	background: url('74b878c03edf85d67b45cb0b9214ec6b886543f5_00.gif');
+	text-align: center;
+	width: 100%;
+	height: 1000;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+	overflow: hidden;
+	border-radius: 0 0 85% 85% / 30%;
+}
+header .overlay{
+	width: 100%;
+	height: 100%;
+	padding: 50px;
+	color: #ffffff;
+	text-shadow: 1px 1px 1px #333;
+  background-image: linear-gradient( 135deg, #9f05ff69 10%, #fd5e086b 100%);
+	
+}
+
+h1 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 80px;
+	margin-bottom: 30px;
+}
+.bb{ background-color: #00ffc0;
+    
+}
+h3, p { background-color: #00ffc0;
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 30px;
+}
+
+button {
+	border: none;
+	outline: none;
+	padding: 10px 20px;
+	border-radius: 50px;
+	color: #333;
+	background: #fff;
+	margin-bottom: 50px;
+	box-shadow: 0 3px 20px 0 #0000003b;
+}
+button:hover{
+	cursor: pointer;
+}
+ .calvo { color: black;
+ 
+     
+ }
+ .bobo{
+ border: none;
+	color: #0096ff;
+	box-shadow: 0 100px 20px 0 #0000003b;
+	text-shadow: 1px 1px 1px #333;
+	text-align: absolute 
+  width: 300px;
+    padding: 2px 10px;
+    border: 5px solid #eee;
+    border-radius: 6px;
+    background-color: #00ff03;
+    font-size: 20px;
+ padding: 10px 20px;
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 5vh;
+ 
+ 
+	}
+	.dono{color: red;
+    
+}
+
+h1{color: red;
+    
+}
+h2{color: red;
+    
+}
+.logo {
+    background: left / cover url('images (4).gif');
+    display: flex;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    font: bold calc(2em + 2 * (100vw - 120px) / 100) 'Dancing Script', fantasy;
+    color: #ff0083;
+    text-shadow: #000 2px 2px 0.2rem;
+}
+.color{ color: red;
+    
+}
+h3{ color: red;
+    
+}
+h4{color: red;
+    
+}
+button{width:250px; height:45px; font-size:20px; color:white; background-color:#00ff2d; border-style: solid; border-color: #259b4c;
+  
+}
+p{ color: #1c15ff;
+    
+}
+.doa{
+     font-weight:bold;
+     font-size:18px;
+     color: #1538ff;
+     background-color: #ff0a00;
+}
+.comeia{
+    background: left / cover url('images (3).gif');
+    display: flex;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    font: bold calc(2em + 2 * (100vw - 120px) / 100) 'Dancing Script', fantasy;
+    color: #ff0083;
+    text-shadow: #000 2px 2px 0.2rem;
+}
+.lop{ color: red;
+    
+}
